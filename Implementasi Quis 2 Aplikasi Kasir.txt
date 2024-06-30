@@ -1,0 +1,12 @@
+Nama	:Marcellino Immanuel Ndoki
+NIM	:2201010148
+Kelas	:U
+
+Quis 2
+Soal
+Implementasi Desain aplikasi dari Quis 1
+1. Implementasikan desain aplikasi anda dengan menggunakan pemrograman JAVA dan simpan project di github yang telah di buat pada quis 1 dan konfirmasikan URL Repositores di bagian konfirmasi project UAS pada pertemuan 16
+
+Jawab
+Link Github Impementasi : https://github.com/MaruIsHere/OOP-UAS-2201010148
+Link Demo Aplikasi Kasir : https://drive.google.com/drive/folders/1otyvvXvayX8Q5tw7Xkflm8WFrMlx6U8a?usp=sharing

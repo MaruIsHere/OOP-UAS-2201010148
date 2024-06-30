@@ -1,0 +1,17 @@
+Nama	:Marcellino Immanuel Ndoki
+NIM	:2201010148
+Kelas	:U
+
+Quis 1
+Soal
+1. Usulkan sebuah ide project aplikasi (aplikasi bisa menggunakan database dan bisa tidak menggunakan database) penjelasan tentang project yang di desain dan beri penjelasan kenapa menggunakan teori tersebut
+2. Usulan project dan penjelasan boleh di tulis tangan atau menggunakan aplikasi pengolah kata seperti Ms. Word, Notepad, ataupun yang lainnya di buat dalam format PDF dilengkapi dengan NIM dan Nama serta di upload ke repositories github (petunjuk quis point c)
+3. Konfirmasikan quis anda pada bagian konfirmasi quis 1 di pertemuan 16
+
+Jawab
+Aplikasi yang saya usulkan adalah aplikasi kasir yang memiliki fitur untuk mencari,menambah,menampilkan dan update data barang dan data petugas/admin.
+Aplikasi kasir akan digunakan untuk melakukan perhitungan,pencarian,serta riwayat transaksi pada barang yang dibeli/jual
+Aplikasi kasir memiliki 2 status yaitu admin dan petugas yang dimana masing - masing memiliki batasan dan fungsinya yang berbeda
+Aplikasi kasir menggunakan database untuk penyimpanannya
+Alasan membuat aplikasi kasir adalah teori yang saya dapatkan dalam pembelajaran OOP bisa saya terapkan pada project aplikasi kasir yang dimana sama - sama menggunakan form,melakukan perhitungan,dan menggunakan database
+maka dari itu saya membuat aplikasi kasir yang dimana aplikasi tersebut sesuai dengan materi yang saya dapatkan dan saya pahami dan mampu saya kerjakan.
